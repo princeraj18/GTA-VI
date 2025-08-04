@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url('https://fonts.cdnfonts.com/css/helvetica-now-mt-micro');
+
+html,body{
+  width: 100%;
+  height: 100%;
+  font-family: 'Pricedown Bl', sans-serif;
+}
+.btmbar h3{
+  font-family: 'Helvetica Now MT Disp', sans-serif;
+
+}
+.rg p{
+  font-family: 'Helvetica Now MT Disp', sans-serif;
+
+}
